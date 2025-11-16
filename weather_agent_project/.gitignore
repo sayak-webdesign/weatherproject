@@ -1,0 +1,15 @@
+API Keys and sensitive configuration
+This is the most important line:
+*.env
+
+Python virtual environment
+.venv/ venv/ env/
+
+Python cache files
+pycache/ *.pyc *.pyo *.pyd
+
+OS-specific files
+.DS_Store
+
+IDE configuration
+.vscode/ .idea/
